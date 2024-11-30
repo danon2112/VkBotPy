@@ -11,7 +11,7 @@ def user_kick(chat_id, user_id):
 
 
 token = "You token"
-group_id = '228488468'
+group_id = 'You group ID'
 
 
 vk = vk_api.VkApi(token=token)
